@@ -1188,19 +1188,19 @@ c) Buttons
 }
 
 .button-simple:hover i{
-	color: #d21825;
+	color: #070c4c;;
 	margin-left: 10px;
 }
 
 .button-simple-primary{
 	display: inline-block;
-	color: #d21825;
+	color: #070c4c;;
 	font-size: 15px;
 	font-weight: 500;
 }
 
 .button-simple-primary i{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 12px;
 	margin-left: 5px;
 	-webkit-transition: all 0.3s ease;
@@ -1272,7 +1272,7 @@ d) Lists
     margin-top: 15px;  
 }
 .primary-list li i{
-    color: #d21825;
+    color: #070c4c;
 	font-size: 18px;
     padding-right: 10px;
 	transform: translateY(2px);
@@ -1289,7 +1289,7 @@ d) Lists
 	margin-top: 15px;
 }
 .grey-list li i{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 18px;
 	padding-right: 10px;
 	transform: translateY(2px);
@@ -1322,7 +1322,7 @@ d) Lists
     margin-top: 15px;  
 }
 .white-list li i{
-    color: #d21825;
+    color: #070c4c;
     padding-right: 15px;
 }
 
@@ -1649,7 +1649,7 @@ g) Pagination
 }
 
 .pagination a.active {
-	background: #d21825;
+	background: #070c4c;
 	color: #fff;
 }
 
@@ -2060,8 +2060,8 @@ i) Forms
 }
 
 .checkbox input[type="checkbox"]:checked + label::before {
-    background-color: #d21825;
-    color: #d21825;
+    background-color: #070c4c;
+    color: #070c4c;
 }
 
 
@@ -2104,7 +2104,7 @@ i) Forms
 	right: 7px;
 	bottom: 7px;
 	left: 7px;
-	background: #d21825;
+	background: #070c4c;
 	border-radius: 2px;
 }
 
@@ -2243,7 +2243,7 @@ i) Forms
 }
 
 .default-tabs .tabs .tab-menu li a i{
-	color: #d21825;
+	color: #070c4c;
 	display: inline-block;
 	font-size: 15px;
 	margin-right: 10px; 
@@ -2252,11 +2252,11 @@ i) Forms
 
 
 .default-tabs .tabs .tab-menu li:hover a, .default-tabs .tabs .tabs li:hover i {
-	color: #d21825;
+	color: #070c4c;;
 }
 
 .default-tabs .tab-menu .active-tab a, .default-tabs .active-tab a i {
-	color: #d21825 !important;
+	color:#070c4c; !important;
 }
 
 
@@ -2429,7 +2429,7 @@ i) Forms
 }
 
 .medium-icon-tabs .tab-menu .active-tab a{
-	background: #d21825 !important;
+	background: #070c4c !important;
 	color: #fff;
 }
 
@@ -2517,23 +2517,23 @@ i) Forms
 }
 
 .medium-icon-tabs-light .tabs .tab-menu li a:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 .medium-icon-tabs-light .tabs .tab-menu li a:hover i{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .medium-icon-tabs-light .tab-menu .active-tab a, .medium-icon-tabs .active-tab a i {
-	color: #d21825 !important;
+	color: #070c4c !important;
 }
 
 .medium-icon-tabs-light .active-tab a i {
-	color: #d21825 !important;
+	color: #070c4c !important;
 }
 
 .medium-icon-tabs-light .tab-menu .active-tab a{
 	background: #fff !important;
-	color: #d21825;
+	color: #070c4c;
 }
 
 
@@ -2601,7 +2601,7 @@ i) Forms
 }
 
 .big-icon-tabs .tabs .tab-menu li a i{
-	color: #d21825;
+	color: #070c4c;
 	display: block;
 	font-size: 40px;
 	margin-bottom: 10px; 
@@ -2609,11 +2609,11 @@ i) Forms
 }
 
 .big-icon-tabs .tabs .tab-menu li:hover a, .big-icon-tabs .tabs .tabs li:hover i {
-	color: #d21825;
+	color: #070c4c;
 }
 
 .big-icon-tabs .tab-menu .active-tab a, .big-icon-tabs .active-tab a i {
-	border-color: #d21825 !important;
+	border-color: #070c4c !important;
 }
 
 .big-icon-tabs .tab-menu .active-tab a{
@@ -2684,7 +2684,7 @@ i) Forms
 }
 
 .progress-bar-primary{
-	background: #d21825;
+	background: #070c4c;
 }
 
 .progress-bar-dark{
@@ -2837,7 +2837,7 @@ i) Forms
 .countup-box h5{
 	font-size: 17px;
 	font-weight: 600;
-	color: #d21825;
+	color: #070c4c;
 	z-index: 2;
 }
 
@@ -2877,14 +2877,14 @@ i) Forms
 
 .countup-box-2 h3{
 	display: inline-block;
-	color: #d21825;
+	color: #070c4c;
 	font-size: 60px;
 	font-weight: 300;
 	line-height: 1;
 }
 
 .countup-box-2 span{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 45px;
 	font-weight: 400;
 	line-height: 1;
@@ -3037,15 +3037,15 @@ i) Forms
 	display: block;
 	font-size: 15px;
 	font-weight: 500;
-	color: #d21825;
+	color: #070c4c;
 }
 
 .card-primary a:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .card-primary .collapsed:focus:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .card-primary a:after{
@@ -3115,7 +3115,7 @@ i) Forms
 .custom-dot.active span{
   width: 9px;
   height: 9px;
-  background: #d21825;
+  background: #070c4c;
   -webkit-transition-duration: .3s;
   transition-duration: .3s;    
 }
@@ -3268,7 +3268,7 @@ i) Forms
 .service-box i{
 	display: inline-block;
 	font-size: 62px;
-	color: #d21825;
+	color: #070c4c;
 	margin: 5px 0px;
 }
 
@@ -3278,7 +3278,7 @@ i) Forms
 }
 
 .service-box h4 a:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .service-box p{
@@ -3295,8 +3295,8 @@ i) Forms
 	left: calc(50% - 30px);
 	border-radius: 50%;
 	display: inline-block;
-	background: #d21825;
-	border: 2px solid #d21825;
+	background: #070c4c;
+	border: 2px solid #070c4c;
 	color: #fff;
 	width: 60px;
 	height: 60px;
@@ -3317,7 +3317,7 @@ i) Forms
 }
 
 .service-box .service-box-btn:hover i{
-	color: #d21825;
+	color: #070c4c;
 }
 
 
@@ -3336,7 +3336,7 @@ i) Forms
 }
 
 .service-block:hover .service-block-content-button i{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .service-block img{
@@ -3373,8 +3373,8 @@ i) Forms
 	left: calc(50% - 30px);
 	border-radius: 10px;
 	display: inline-block;
-	background: #d21825;
-	border: 2px solid #d21825;
+	background: #070c4c;
+	border: 2px solid #070c4c;
 	color: #fff;
 	width: 60px;
 	height: 60px;
@@ -3394,7 +3394,7 @@ i) Forms
 }
 
 .service-block-content-button:hover i{
-	color: #d21825 !important;
+	color: #070c4c !important;
 }
 
 /*----- Style 3 -----*/
@@ -3436,7 +3436,7 @@ i) Forms
 }
 
 .service-block-2-btn i{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 11px;
 	margin-left: 5px;
 	-webkit-transition-duration: .3s;
@@ -3503,8 +3503,8 @@ i) Forms
 }
 
 .service-box-2:hover .service-box-2-icon{
-	background: #d21825;
-	border: 2px solid #d21825;
+	background: #070c4c;
+	border: 2px solid #070c4c;
 }
 
 .service-box-2-icon i{
@@ -3595,7 +3595,7 @@ i) Forms
 }
 
 .service-box-3:hover{
-	border: 2px solid #d21825;
+	border: 2px solid #070c4c;
 	transform: translateY(-5px);
 	box-shadow: 0 20px 30px rgba(0,0,0,.08);
 }
@@ -3620,7 +3620,7 @@ i) Forms
 
 .service-box-3-icon i{
 	display: block;
-	color: #d21825;
+	color: #070c4c;
 	font-size: 50px;
 	transform: translateY(35px) rotate(-45deg);
 }
@@ -3647,7 +3647,7 @@ i) Forms
 }
 
 .service-box-3-btn i {
-	color: #d21825;
+	color: #070c4c;
 	font-size: 12px;
 	margin-left: 5px;
 	-webkit-transition: all 0.3s ease;
@@ -3656,7 +3656,7 @@ i) Forms
 }
 
 .service-box-3-btn:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .service-box-3-btn:hover i{
@@ -3728,7 +3728,7 @@ i) Forms
 
 .features-box-2-icon i{
 	display: block;
-	color: #d21825;
+	color: #070c4c;
 	font-size: 60px;
 	transform: translateY(40px) rotate(-45deg);
 }
@@ -3756,7 +3756,7 @@ i) Forms
 
 .features-box-3 i{
 	font-size: 55px;
-	color: #d21825;
+	color: #070c4c;
 }
 
 .features-box-3 h4{
@@ -3789,7 +3789,7 @@ i) Forms
 
 .features-box-4 .features-box-4-icon i{
     display: block;
-    color: #d21825;
+    color: #070c4c;
     font-size: 42px;
     transform: translateY(22px);
 }
@@ -3867,7 +3867,7 @@ i) Forms
 .service-section:hover{
     box-shadow: 0 20px 30px rgba(0,0,0,.07);
     transform: translateY(-5px);
-    background: #d21825;
+    background: #070c4c;
 }
 .service-section:hover .service-section-icon i{
     color: #fff;
@@ -3876,7 +3876,7 @@ i) Forms
     text-align: right;
 }
 .service-section-icon i{
-    color: #d21825;
+    color: #070c4c;
     font-size: 50px;
 }
 .service-section h4{
@@ -3952,7 +3952,7 @@ i) Forms
 }
 
 .testmonial-box-content strong{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 14px;
 	line-height: 1.6;
 	font-weight: 500;
@@ -4014,7 +4014,7 @@ i) Forms
 
 .testmonials-carousel-2 .testmonial-item .stars i{
 	font-size: 14px;
-	color: #d21825;
+	color: #070c4c;
 }
 
 .testmonials-carousel-2 .owl-dots{
@@ -4075,7 +4075,7 @@ i) Forms
 }
 
 .testmonials-carousel-3 .testmonial-rating i{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 13px;
 }
 
@@ -4091,7 +4091,7 @@ i) Forms
 }
 
 .testmonial-box-2 .quote-icon{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 28px;
 }
 
@@ -4157,7 +4157,7 @@ i) Forms
 	border-radius: 50%;
 	width: 80px;
 	height: 80px;
-	border: 2px solid #d21825;
+	border: 2px solid #070c4c;
 	padding: 2px;
 }
 
@@ -4194,7 +4194,7 @@ i) Forms
 
 .testmonial-item-5 .stars i{
 	font-size: 13px;
-	color: #d21825;
+	color: #070c4c;
 }
 
 @media (max-width: 1146px) {
@@ -4298,7 +4298,7 @@ i) Forms
 .contact-icon-box i{
 	float: left;
 	display: inline-block;
-	color: #d21825;
+	color: #070c4c;
 	font-size: 50px;
 	margin-right: 20px;
 }
@@ -4364,7 +4364,7 @@ i) Forms
 }
 
 .contact-form-2 input:focus, .contact-form-2 textarea:focus, .contact-form-2 select:focus{
-	border-color: #d21825;
+	border-color: #070c4c;
 }
 
 /*-----------------------------------------
@@ -4992,14 +4992,14 @@ i) Forms
 
 .pricing-box h2{
 	text-align: center;
-	color: #d21825;
+	color: #070c4c;
 	font-size: 35px;
 	font-weight: 400;
 	margin-top: 10px;
 }
 
 .pricing-box h2 sup{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 25px;
 	font-weight: 400;
 }
@@ -5023,7 +5023,7 @@ i) Forms
 
 .pricing-box ul li i{
 	font-size: 14px;
-	color: #d21825;
+	color: #070c4c;
 	float: right;
 	margin-top: 10px;
 }
@@ -5036,9 +5036,9 @@ i) Forms
 	display: inline-block;
 	position: relative;
 	font-size: 13px;
-	color: #d21825;
+	color: #070c4c;
 	font-weight: 500;
-	border: 2px solid #d21825;
+	border: 2px solid #070c4c;
 	background: transparent;
 	border-radius: 5px;
 	padding: 10px 30px;
@@ -5049,15 +5049,15 @@ i) Forms
 }
 .pricing-box-button a:hover{
 	color: #fff;
-	background: #d21825;
+	background: #070c4c;
 }
 
 .pricing-box-button-active a{
 	color: #fff;
-	background: #d21825;
+	background: #070c4c;
 }
 .pricing-box-button-active a:hover{
-	color: #d21825;
+	color: #070c4c;
 	background: #fff;
 }
 
@@ -5068,7 +5068,7 @@ i) Forms
 	transform: scale(1.05);
 	text-align: center;
 	background: #fff;
-	border: 2px solid #d21825;
+	border: 2px solid #070c4c;
 	border-radius: 5px;
 	padding-bottom: 35px;
 	margin-top: 20px;
@@ -5099,12 +5099,12 @@ i) Forms
 
 .pricing-section-price h2{
 	font-family: 'Montserrat', sans-serif;
-	color: #d21825;
+	color: #070c4c;
 	font-size: 60px;
 	font-weight: 700;
 }
 .pricing-section-price h2 sup{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 35px;
 	font-weight: 700;
 	margin-right: 5px;
@@ -5183,7 +5183,7 @@ i) Forms
     transition-duration: .3s;
 }
 .pricing-box-3:hover h2 span{
-    color: #d21825;
+    color: #070c4c;
 }
 
 .pricing-box-3 ul{
@@ -5212,9 +5212,9 @@ i) Forms
     display: inline-block;
     position: relative;
     font-size: 15px;
-    color: #d21825;
+    color: #070c4c;
     font-weight: 500;
-    border: 1.5px solid #d21825;
+    border: 1.5px solid #070c4c;
     background: #fff;
     border-radius: 5px;
     padding: 11px 20px;
@@ -5234,7 +5234,7 @@ i) Forms
     display: inline-block;
     text-align: center;
     position: absolute;
-    background: #d21825;
+    background: #070c4c;
     top: 0px;
     right: 40px;
     padding: 0px;
@@ -5326,7 +5326,7 @@ i) Forms
 	transition-duration: .4s;
 }
 .team-box-2:hover .team-box-2-info h6{
-	color: #d21825;
+	color: #070c4c;;
 }
 
 .team-box-2-icon{
@@ -5353,7 +5353,7 @@ i) Forms
 	transition-duration: .3s;
 }
 .team-box-2-icon li a i:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 /*--------- Style 3 ----------*/
@@ -5441,7 +5441,7 @@ i) Forms
     transition-duration: .3s;
 }
 .team-box-3-info ul li i:hover{
-    color: #d21825;
+    color: #070c4c;
     font-size: 16px;
 }
 
@@ -5513,7 +5513,7 @@ i) Forms
     height: 12px;
     right: -4px;
     background-color: #fff;
-    border: 2px solid #d21825;
+    border: 2px solid #070c4c;
     top: 15px;
     border-radius: 50%;
     z-index: 1;
@@ -5591,7 +5591,7 @@ i) Forms
 
 .timeline h2{
     display: block;
-    color: #d21825;
+    color: #070c4c;
     font-size: 16px;
     font-weight: 600;
     margin-bottom: 15px;
@@ -5599,7 +5599,7 @@ i) Forms
 
 .timeline-left-all h2{
     width: 50%;
-    color: #d21825;
+    color: #070c4c;
     margin-left: 50%;
     padding-left: 30px;
     margin-bottom: -35px;
@@ -5608,7 +5608,7 @@ i) Forms
 .timeline-right-all h2{
     width: 50%;
     text-align: right;
-    color: #d21825;
+    color: #070c4c;
     padding-right: 35px;
     margin-bottom: -35px;
 }
@@ -5657,7 +5657,7 @@ i) Forms
         padding-left: 65px;
         padding-bottom: 10px;
         margin-bottom: 0px !important;
-        color: #d21825;
+        color: #070c4c;
         text-align: left !important;
     }
 }
@@ -5886,7 +5886,7 @@ i) Forms
 }
 
 .vertical-nav-1 li a:hover {
-	color: #d21825;
+	color: #070c4c;
 }
 
 /*-----------------------------------------
@@ -6100,7 +6100,7 @@ i) Forms
 
 .error-section-2 h1 {
 	position: relative;
-	color: #d21825;
+	color: #070c4c;
 	font-size: 120px;
 	font-weight: 700;
 	line-height: 1;
@@ -6672,7 +6672,7 @@ i) Forms
 	float: right;
 	position: absolute;
 	text-align: center;
-	background: #d21825;
+	background: #070c4c;
 	left: 20px;
 	top: 5px;
 	min-width: 60px;
@@ -6730,7 +6730,7 @@ i) Forms
     font-weight: 500;
 }
 .shop-product h3 a:hover{
-    color: #d21825;
+    color: #070c4c;
 }
 
 .shop-product h6{
@@ -6784,7 +6784,7 @@ i) Forms
 
 .price-star i {
     font-size: 12px;
-    color: #d21825;
+    color: #070c4c;
 }
 
 .price-star h6{
@@ -6805,7 +6805,7 @@ i) Forms
 }
 .price-star ul li{
     display: inline-block;
-    color: #d21825;
+    color: #070c4c;
     margin: 0px;
 }
 
@@ -6889,7 +6889,7 @@ i) Forms
     font-size: 14px;
 }
 .product-categories ul li a:hover{
-    color: #d21825;
+    color: #070c4c;
 }
 .product-categories ul li:after{
     content: ' / ';
@@ -6932,7 +6932,7 @@ i) Forms
     font-size: 14px;
 }
 .product-tags ul li a:hover{
-    color: #d21825;
+    color: #070c4c;
 }
 .product-tags ul li:after{
     content: ', ';
@@ -7028,7 +7028,7 @@ i) Forms
 
 .add-to-cart-button{
     display: inline-block;
-    background: #d21825;
+    background: #070c4c;
     color: #fff;
     font-size: 14px;
     font-weight: 500;
@@ -7062,7 +7062,7 @@ i) Forms
     transition-duration: .3s;
 }
 .product-share a i:hover{
-    color: #d21825;
+    color: #070c4c;
 }
 
 /*---------------
@@ -7093,12 +7093,12 @@ Shop Tabs
 }
 
 .shop-tabs .tabs .tab-menu li:hover a, .tabs li:hover i {
-    color: #d21825;
+    color: #070c4c;
 }
 
 .shop-tabs .tab-menu .active-tab a, .shop-tabs .active-tab a i {
-    color: #d21825 !important;
-    border-color: #d21825 !important;
+    color: #070c4c !important;
+    border-color: #070c4c !important;
 }
 
 .shop-tabs .tab-menu{
@@ -7173,7 +7173,7 @@ Shop Tabs
     display: block;
     width: 70px;
     height: 2px;
-    background: #d21825;
+    background: #070c4c;
     margin-top: 15px;
     margin-bottom: 10px;
 }
@@ -7280,17 +7280,17 @@ Shop Product Review Form
 
 .rating:not(:hover) label input:checked ~ .icon,
 .rating:hover label:hover input ~ .icon {
-    color: #d21825;
+    color: #070c4c;
 }
 
 .rating label input:focus:not(:checked) ~ .icon:last-child {
     color: #ccc;
-    text-shadow: 0 0 5px #d21825;
+    text-shadow: 0 0 5px #070c4c;
 }
 
 .customer-review-img{
 	border-radius: 50%;
-	border: 2px solid #d21825;
+	border: 2px solid #070c4c;
 	padding: 3px;
 }
 
@@ -7317,7 +7317,7 @@ Shop Product Review Form
 
 .customer-review-block strong{
     display: inline-block;
-    color: #d21825;
+    color: #070c4c;
     font-size: 13px;
     font-weight: 500;
     line-height: 1;
@@ -7335,7 +7335,7 @@ Shop Product Review Form
     margin: 5px 0px;
 }
 .customer-review-stars i{
-    color: #d21825;
+    color: #070c4c;
     font-size: 12px;
 }
 
@@ -7665,7 +7665,7 @@ Shop Product Review Form
 	display: flex;
 	align-items: center;
     transition: .5s ease;
-    background-color: #d21825;
+    background-color: #070c4c;
 }
 
 .portolio-boxed:hover .portolio-boxed-overlay {
@@ -7746,8 +7746,8 @@ Shop Product Review Form
 }
 
 .portolio-boxed-2 .portfolio-btn a:hover{
-	border-color: #d21825;
-	color: #d21825;
+	border-color: #070c4c;
+	color: #070c4c;
 }
 
 
@@ -7856,7 +7856,7 @@ Shop Product Review Form
 
 .blog-team-box{
 	display: inline-block;
-	background: #d21825;
+	background: #070c4c;
 	border-radius: 5px;
 	padding: 5px 8px;
 	position: relative;
@@ -7962,7 +7962,7 @@ Shop Product Review Form
 }
 
 .blog-list-info li i{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 15px;
 	padding-right: 10px;
 }
@@ -7994,7 +7994,7 @@ blockquote{
 	font-weight: 500;
 	color: #222;
 	padding: 20px;
-	border-left: 4px solid #d21825;
+	border-left: 4px solid #070c4c;
 	line-height: 1.6;
 	position: relative;
 	background: #f1f1f1;
@@ -8024,7 +8024,7 @@ blockquote{
 }
 
 #search-input button i{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 16px;
 	margin: 8px 3px 0px 0px;
 	-webkit-transition-duration: .3s;
@@ -8056,7 +8056,7 @@ blockquote{
 }
 
 .blog-post-categories ul li a:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .blog-post-categories ul li a span{
@@ -8066,7 +8066,7 @@ blockquote{
 }
 
 .blog-post-categories ul li:hover a span{
-	color: #d21825;
+	color: #070c4c;
 }
 
 /*Top News*/
@@ -8087,7 +8087,7 @@ blockquote{
 }
 
 .top-news-info h3 a:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .top-news-info h6{
@@ -8137,7 +8137,7 @@ blockquote{
 	transition-duration: .4s;
 }
 .archive-box ul li a:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .archive-box ul li span{
@@ -8174,7 +8174,7 @@ blockquote{
 }
 
 .blog-post-follow ul li:hover {
-	background: #d21825;
+	background: #070c4c;
 }
 
 /*Comments*/
@@ -8207,7 +8207,7 @@ blockquote{
 }
 
 .blog-comment-user strong{
-	color: #d21825;
+	color: #070c4c;
 	font-size: 12px;
 	font-weight: 600;
 	float: right;
@@ -8242,7 +8242,7 @@ blockquote{
 	width: 65px;
 	max-width: 100%;
 	height: 2px;
-	background: #d21825;
+	background: #070c4c;
 	margin-top: 10px;
 }
 
@@ -8329,7 +8329,7 @@ blockquote{
 }
 
 .footer-nav a:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .footer-news li{
@@ -8351,7 +8351,7 @@ blockquote{
 }
 
 .footer-news a:hover{
-	color: #d21825;
+	color: #070c4c;
 }
 
 .footer-news strong{
@@ -8363,7 +8363,7 @@ blockquote{
 }
 
 .footer-news strong i{
-	color: #d21825;
+	color: #070c4c;
 	margin-right: 5px;
 }
 
@@ -8378,7 +8378,7 @@ blockquote{
 }
 
 .footer-subscribe-form button{
-	background: #d21825;
+	background: #070c4c;
 	color: #fff;
 	font-size: 17px;
 	width: 50px;
@@ -8391,7 +8391,7 @@ blockquote{
 }
 
 .footer-subscribe-form button:hover{
-	color: #d21825;
+	color: #070c4c;
 	background: #f5f5f5;
 }
 
