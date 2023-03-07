@@ -307,7 +307,7 @@ TABLE OF CONTENT
 	position: relative;
 	font-size: 37px;
 	font-weight: 400;
-	color: #222;
+
 	line-height: 130%;
 	margin-bottom: 10px;
 	margin-top: 5px;
@@ -5151,11 +5151,11 @@ i) Forms
 
 .pricing-box-3-category{
     padding: 20px 0px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid;
 }
 
 .pricing-box-3-category h4{
-    color: #d21825;
+    color: #070c4c;
     font-size: 20px;
     font-weight: 500;
 }
